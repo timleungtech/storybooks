@@ -11,7 +11,7 @@
   "author": "timleungtech",
   "license": "MIT",
   "dependencies": {
-    "connect-mongo": "^3.2.0",
+    "connect-mongo": "^4.6.0",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "express-handlebars": "^4.0.4",
